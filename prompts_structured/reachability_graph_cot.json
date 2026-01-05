@@ -1,0 +1,1202 @@
+[
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  },
+  {
+    "graph_text": "You are given a directed graph.\n\nGraph:\nGraph has no edges.",
+    "question": "Can the target node be reached from the source node?",
+    "steps": [
+      "Identify all nodes and their outgoing edges.",
+      "Explore paths starting from each node.",
+      "Check if any path leads back to a previously visited node.",
+      "If such a path exists, a cycle is present."
+    ],
+    "final_instruction": "Provide the final answer (Yes or No).",
+    "answer": "No"
+  }
+]

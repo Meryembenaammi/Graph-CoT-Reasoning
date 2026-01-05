@@ -1,0 +1,14 @@
+{
+  "standard": {
+    "accuracy": 0.6533333333333333,
+    "success_rate": 1.0,
+    "correct": 392,
+    "incorrect": 208
+  },
+  "graph_cot": {
+    "accuracy": 0.835,
+    "success_rate": 1.0,
+    "correct": 501,
+    "incorrect": 99
+  }
+}

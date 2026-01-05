@@ -1,0 +1,122 @@
+[
+  {
+    "type": "correct_standard",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Dans ce cas simple, un raisonnement implicite suffit à identifier correctement la structure."
+  },
+  {
+    "type": "correct_standard",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Dans ce cas simple, un raisonnement implicite suffit à identifier correctement la structure."
+  },
+  {
+    "type": "correct_standard",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Dans ce cas simple, un raisonnement implicite suffit à identifier correctement la structure."
+  },
+  {
+    "type": "correct_standard",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Dans ce cas simple, un raisonnement implicite suffit à identifier correctement la structure."
+  },
+  {
+    "type": "correct_standard",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Dans ce cas simple, un raisonnement implicite suffit à identifier correctement la structure."
+  },
+  {
+    "type": "incorrect_standard",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Le prompt standard conduit à une conclusion prématurée sans exploration exhaustive."
+  },
+  {
+    "type": "incorrect_standard",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Le prompt standard conduit à une conclusion prématurée sans exploration exhaustive."
+  },
+  {
+    "type": "incorrect_standard",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Le prompt standard conduit à une conclusion prématurée sans exploration exhaustive."
+  },
+  {
+    "type": "incorrect_standard",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Le prompt standard conduit à une conclusion prématurée sans exploration exhaustive."
+  },
+  {
+    "type": "incorrect_standard",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Le prompt standard conduit à une conclusion prématurée sans exploration exhaustive."
+  },
+  {
+    "type": "correct_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Le raisonnement structuré impose une exploration systématique du graphe, permettant d’identifier explicitement les cycles."
+  },
+  {
+    "type": "correct_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Le raisonnement structuré impose une exploration systématique du graphe, permettant d’identifier explicitement les cycles."
+  },
+  {
+    "type": "correct_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Le raisonnement structuré impose une exploration systématique du graphe, permettant d’identifier explicitement les cycles."
+  },
+  {
+    "type": "correct_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Le raisonnement structuré impose une exploration systématique du graphe, permettant d’identifier explicitement les cycles."
+  },
+  {
+    "type": "correct_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "Yes",
+    "comment": "Le raisonnement structuré impose une exploration systématique du graphe, permettant d’identifier explicitement les cycles."
+  },
+  {
+    "type": "incorrect_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Malgré le raisonnement structuré, la taille du graphe complique la propagation complète des dépendances."
+  },
+  {
+    "type": "incorrect_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Malgré le raisonnement structuré, la taille du graphe complique la propagation complète des dépendances."
+  },
+  {
+    "type": "incorrect_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Malgré le raisonnement structuré, la taille du graphe complique la propagation complète des dépendances."
+  },
+  {
+    "type": "incorrect_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Malgré le raisonnement structuré, la taille du graphe complique la propagation complète des dépendances."
+  },
+  {
+    "type": "incorrect_graph_cot",
+    "ground_truth": "Yes",
+    "prediction": "No",
+    "comment": "Malgré le raisonnement structuré, la taille du graphe complique la propagation complète des dépendances."
+  }
+]

@@ -3,6 +3,24 @@
 This repository contains the implementation and evaluation of **Graph Chain-of-Thought (Graph-CoT)**,
 a structured reasoning approach for Large Language Models on graph-based problems.
 
+## Dataset
+
+The dataset used in this project is based on directed graph benchmarks
+(e.g., LC210, LC797, Reachability).
+
+Due to its large size, the dataset is not stored directly in the GitHub repository.
+It can be obtained from:
+
+- GraphEval benchmark
+- Custom generated directed graph datasets
+
+The directory structure is expected to be:
+
+dataset-main/
+ └── data/
+     └── directed/
+
+
 ## Tasks
 - Cycle Detection (lc210)
 - Path Finding (lc797)
